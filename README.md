@@ -21,17 +21,17 @@ Hi! I'm **Abi Nandhan**, a developer passionate about building scalable, high-qu
 
 </p>
 
-## 🤝 Connect
+## 🌐 Let's Connect
 
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://github.com/InsidiousLion">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
-<a href="https://abinsight.online">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/abi-nandhan-aa72661b0/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:abinandhanprakash@gmail.com">
+<a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
