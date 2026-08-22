@@ -21,6 +21,12 @@ Hi! I'm **Abi Nandhan**, a developer passionate about building scalable, high-qu
 
 </p>
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InsidiousLion&label=Profile%20Views&color=667eea&style=flat" alt="InsidiousLion profile views" />
+</p>
+
 ## 🌐 Let's Connect
 
 <a href="YOUR_PORTFOLIO_URL">
